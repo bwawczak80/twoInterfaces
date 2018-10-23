@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">twoInterfaces</string>
+    <string name="my_name">Brian Wawczak</string>
+    <string name="pic_description">Milk Snake</string>
+    <string name="btn_view">Next</string>
+    <string name="txt_bio">Brian keeps and breeds a variety of snakes.  His main focus is on milk snakes and ball pythons.</string>
+
+</resources>
